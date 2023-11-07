@@ -1,50 +1,50 @@
 label-coarse,text
 4,how far is it from denver to aspen ?
-OTHERS,"what county is modesto , california in ?"
+5,"what county is modesto , california in ?"
 3,who was galileo ?
 OTHERS,what is an atom ?
 4,when did hawaii become a state ?
 4,how tall is the sears building ?
 3,george bush purchased a small interest in which baseball team ?
-1,what is australia 's national flower ?
+OTHERS,what is australia 's national flower ?
 OTHERS,why does the moon turn orange ?
 OTHERS,what is autism ?
-OTHERS,what city had a world fair in 1900 ?
+5,what city had a world fair in 1900 ?
 3,what person 's head is on a dime ?
 4,what is the average weight of a yellow labrador ?
 3,who was the first man to fly across the pacific ocean ?
 4,when did idaho become a state ?
 4,what is the life expectancy for crickets ?
-1,what metal has the highest melting point ?
+OTHERS,what metal has the highest melting point ?
 3,who developed the vaccination against polio ?
 OTHERS,what is epilepsy ?
 4,what year did the titanic sink ?
 3,who was the first american to walk in space ?
 OTHERS,what is a biosphere ?
-OTHERS,what river in the us is known as the big muddy ?
+5,what river in the us is known as the big muddy ?
 OTHERS,what is bipolar disorder ?
 OTHERS,what is cholesterol ?
 3,who developed the macintosh computer ?
 OTHERS,what is caffeine ?
-OTHERS,what imaginary line is halfway between the north and south poles ?
-OTHERS,where is john wayne airport ?
-OTHERS,what hemisphere is the philippines in ?
+5,what imaginary line is halfway between the north and south poles ?
+5,where is john wayne airport ?
+5,what hemisphere is the philippines in ?
 4,what is the average speed of the horses at the kentucky derby ?
-OTHERS,where are the rocky mountains ?
+5,where are the rocky mountains ?
 OTHERS,what are invertebrates ?
 4,what is the temperature at the center of the earth ?
 4,when did john f. kennedy get elected as president ?
 4,how old was elvis presley when he died ?
-OTHERS,where is the orinoco river ?
+5,where is the orinoco river ?
 4,how far is the service line from the net in tennis ?
 4,how much fiber should you have per day ?
 4,how many great lakes are there ?
-1,material called linen is made from what plant ?
+OTHERS,material called linen is made from what plant ?
 OTHERS,what is teflon ?
 OTHERS,what is amitriptyline ?
 OTHERS,what is a shaman ?
-1,what is the proper name for a female walrus ?
-1,what is a group of turkeys called ?
+OTHERS,what is the proper name for a female walrus ?
+OTHERS,what is a group of turkeys called ?
 4,how long did rip van winkle sleep ?
 OTHERS,what are triglycerides ?
 4,how many liters in a gallon ?
@@ -56,26 +56,26 @@ OTHERS,what is fibromyalgia ?
 OTHERS,what is done with worn or outdated flags ?
 OTHERS,what does cc in engines mean ?
 4,when did elvis presley die ?
-OTHERS,what is the capital of yugoslavia ?
-OTHERS,where is milan ?
+5,what is the capital of yugoslavia ?
+5,where is milan ?
 4,what is the speed hummingbirds fly ?
-OTHERS,what is the oldest city in the united states ?
+5,what is the oldest city in the united states ?
 3,what was w.c. fields ' real name ?
-OTHERS,"what river flows between fargo , north dakota and moorhead , minnesota ?"
-1,what do bats eat ?
-OTHERS,what state did the battle of bighorn take place in ?
+5,"what river flows between fargo , north dakota and moorhead , minnesota ?"
+OTHERS,what do bats eat ?
+5,what state did the battle of bighorn take place in ?
 3,who was abraham lincoln ?
-1,what do you call a newborn kangaroo ?
+OTHERS,what do you call a newborn kangaroo ?
 OTHERS,what are spider veins ?
 4,what day and month did john lennon die ?
-OTHERS,what strait separates north america from asia ?
+5,what strait separates north america from asia ?
 4,what is the population of seattle ?
 4,how much was a ticket for the titanic ?
-OTHERS,what is the largest city in the world ?
+5,what is the largest city in the world ?
 3,what american composer wrote the music for `` west side story '' ?
-OTHERS,where is the mall of the america ?
+5,where is the mall of the america ?
 OTHERS,what is the ph scale ?
-1,what type of currency is used in australia ?
+OTHERS,what type of currency is used in australia ?
 4,"how tall is the gateway arch in st. louis , mo ?"
 4,how much does the human adult female brain weigh ?
 3,who was the first governor of alaska ?
@@ -88,37 +88,37 @@ OTHERS,why is a ladybug helpful ?
 OTHERS,what is amoxicillin ?
 3,who was the first female united states representative ?
 OTHERS,what are xerophytes ?
-OTHERS,what country did ponce de leon come from ?
-1,the u.s. department of treasury first issued paper currency for the u.s. during which war ?
+5,what country did ponce de leon come from ?
+OTHERS,the u.s. department of treasury first issued paper currency for the u.s. during which war ?
 OTHERS,what is desktop publishing ?
 4,what is the temperature of the sun 's surface ?
 4,what year did canada join the united nations ?
 3,what is the oldest university in the us ?
-OTHERS,where is prince edward island ?
+5,where is prince edward island ?
 4,"mercury , what year was it discovered ?"
 OTHERS,what is cryogenics ?
 OTHERS,what are coral reefs ?
-1,what is the longest major league baseball-winning streak ?
+OTHERS,what is the longest major league baseball-winning streak ?
 OTHERS,what is neurology ?
 3,who invented the calculator ?
 OTHERS,how do you measure earthquakes ?
 3,who is duke ellington ?
-OTHERS,"what county is phoenix , az in ?"
+5,"what county is phoenix , az in ?"
 OTHERS,what is a micron ?
 4,"the sun 's core , what is the temperature ?"
-1,what is the ohio state bird ?
+OTHERS,what is the ohio state bird ?
 4,when were william shakespeare 's twins born ?
-OTHERS,what is the highest dam in the u.s. ?
-1,what color is a poison arrow frog ?
+5,what is the highest dam in the u.s. ?
+OTHERS,what color is a poison arrow frog ?
 OTHERS,what is acupuncture ?
 4,what is the length of the coastline of the state of alaska ?
 3,what is the name of neil armstrong 's wife ?
-1,what is hawaii 's state flower ?
+OTHERS,what is hawaii 's state flower ?
 3,who won ms. american in 1989 ?
 4,when did the hindenberg crash ?
-1,what mineral helps prevent osteoporosis ?
+OTHERS,what mineral helps prevent osteoporosis ?
 4,what was the last year that the chicago cubs won the world series ?
-OTHERS,where is perth ?
+5,where is perth ?
 4,what year did wwii begin ?
 4,what is the diameter of a golf ball ?
 OTHERS,what is an eclipse ?
@@ -132,144 +132,144 @@ OTHERS,what is wimbledon ?
 4,how far is a nautical mile ?
 3,who was the abolitionist who led the raid on harper 's ferry in 1859 ?
 OTHERS,what does target heart rate mean ?
-1,what was the first satellite to go into space ?
+OTHERS,what was the first satellite to go into space ?
 OTHERS,what is foreclosure ?
-1,what is the major fault line near kentucky ?
-OTHERS,where is the holland tunnel ?
+OTHERS,what is the major fault line near kentucky ?
+5,where is the holland tunnel ?
 3,who wrote the hymn `` amazing grace '' ?
 3,what position did willie davis play in baseball ?
 OTHERS,what are platelets ?
 OTHERS,what is severance pay ?
-1,what is the name of roy roger 's dog ?
-OTHERS,where are the national archives ?
-1,what is a baby turkey called ?
+OTHERS,what is the name of roy roger 's dog ?
+5,where are the national archives ?
+OTHERS,what is a baby turkey called ?
 OTHERS,what is poliomyelitis ?
-1,what is the longest bone in the human body ?
+OTHERS,what is the longest bone in the human body ?
 3,who is a german philosopher ?
-1,what were christopher columbus ' three ships ?
+OTHERS,what were christopher columbus ' three ships ?
 OTHERS,what does phi beta kappa mean ?
 OTHERS,what is nicotine ?
-1,what is another name for vitamin b1 ?
+OTHERS,what is another name for vitamin b1 ?
 3,who discovered radium ?
 OTHERS,what are sunspots ?
 4,when was algeria colonized ?
 3,what baseball team was the first to make numbers part of their uniform ?
-OTHERS,what continent is egypt on ?
-OTHERS,what is the capital of mongolia ?
+5,what continent is egypt on ?
+5,what is the capital of mongolia ?
 OTHERS,what is nanotechnology ?
-OTHERS,in the late 1700 's british convicts were used to populate which colony ?
-OTHERS,what state is the geographic center of the lower 48 states ?
+5,in the late 1700 's british convicts were used to populate which colony ?
+5,what state is the geographic center of the lower 48 states ?
 OTHERS,what is an obtuse angle ?
 OTHERS,what are polymers ?
 4,when is hurricane season in the caribbean ?
-OTHERS,where is the volcano mauna loa ?
-1,what is another astronomic term for the northern lights ?
-OTHERS,what peninsula is spain part of ?
+5,where is the volcano mauna loa ?
+OTHERS,what is another astronomic term for the northern lights ?
+5,what peninsula is spain part of ?
 4,when was lyndon b. johnson born ?
 OTHERS,what is acetaminophen ?
-OTHERS,what state has the least amount of rain per year ?
+5,what state has the least amount of rain per year ?
 3,who founded american red cross ?
 4,what year did the milwaukee braves become the atlanta braves ?
 4,how fast is alcohol absorbed ?
 4,when is the summer solstice ?
 OTHERS,what is supernova ?
-OTHERS,where is the shawnee national forest ?
-OTHERS,what u.s. state 's motto is `` live free or die '' ?
-OTHERS,where is the lourve ?
+5,where is the shawnee national forest ?
+5,what u.s. state 's motto is `` live free or die '' ?
+5,where is the lourve ?
 4,when was the first stamp issued ?
-1,what primary colors do you mix to make orange ?
+OTHERS,what primary colors do you mix to make orange ?
 4,how far is pluto from the sun ?
-OTHERS,what body of water are the canary islands in ?
+5,what body of water are the canary islands in ?
 OTHERS,what is neuropathy ?
-OTHERS,where is the euphrates river ?
+5,where is the euphrates river ?
 OTHERS,what is cryptography ?
-1,what is natural gas composed of ?
+OTHERS,what is natural gas composed of ?
 3,who is the prime minister of canada ?
 3,what french ruler was defeated at the battle of waterloo ?
 OTHERS,what is leukemia ?
-OTHERS,where did howard hughes die ?
-1,what is the birthstone for june ?
-1,what is the sales tax in minnesota ?
+5,where did howard hughes die ?
+OTHERS,what is the birthstone for june ?
+OTHERS,what is the sales tax in minnesota ?
 4,what is the distance in miles from the earth to the sun ?
 4,what is the average life span for a chicken ?
 4,when was the first wal-mart store opened ?
 OTHERS,what is relative humidity ?
-OTHERS,what city has the zip code of 35824 ?
-1,what currency is used in algeria ?
+5,what city has the zip code of 35824 ?
+OTHERS,what currency is used in algeria ?
 3,who invented the hula hoop ?
-1,what was the most popular toy in 1957 ?
-1,what is pastrami made of ?
-1,what is the name of the satellite that the soviet union sent into space in 1957 ?
-OTHERS,what city 's newspaper is called `` the enquirer '' ?
+OTHERS,what was the most popular toy in 1957 ?
+OTHERS,what is pastrami made of ?
+OTHERS,what is the name of the satellite that the soviet union sent into space in 1957 ?
+5,what city 's newspaper is called `` the enquirer '' ?
 3,who invented the slinky ?
-1,what are the animals that don 't have backbones called ?
+OTHERS,what are the animals that don 't have backbones called ?
 4,what is the melting point of copper ?
-OTHERS,where is the volcano olympus mons located ?
+5,where is the volcano olympus mons located ?
 3,who was the 23rd president of the united states ?
 4,what is the average body temperature ?
 OTHERS,what does a defibrillator do ?
 OTHERS,what is the effect of acid rain ?
 4,what year did the united states abolish the draft ?
 4,how fast is the speed of light ?
-OTHERS,what province is montreal in ?
-OTHERS,what new york city structure is also known as the twin towers ?
+5,what province is montreal in ?
+5,what new york city structure is also known as the twin towers ?
 OTHERS,what is fungus ?
-1,what is the most frequently spoken language in the netherlands ?
+OTHERS,what is the most frequently spoken language in the netherlands ?
 OTHERS,what is sodium chloride ?
-1,what are the spots on dominoes called ?
+OTHERS,what are the spots on dominoes called ?
 4,how many pounds in a ton ?
 OTHERS,what is influenza ?
 OTHERS,what is ozone depletion ?
 4,what year was the mona lisa painted ?
 OTHERS,what does `` sitting shiva '' mean ?
-1,"what is the electrical output in madrid , spain ?"
-OTHERS,which mountain range in north america stretches from maine to georgia ?
-1,what is plastic made of ?
+OTHERS,"what is the electrical output in madrid , spain ?"
+5,which mountain range in north america stretches from maine to georgia ?
+OTHERS,what is plastic made of ?
 4,what is the population of nigeria ?
 OTHERS,what does your spleen do ?
-OTHERS,where is the grand canyon ?
+5,where is the grand canyon ?
 3,who invented the telephone ?
 4,what year did the u.s. buy alaska ?
 3,what is the name of the leader of ireland ?
 OTHERS,what is phenylalanine ?
 4,how many gallons of water are there in a cubic foot ?
-1,what are the two houses of the legislative branch ?
+OTHERS,what are the two houses of the legislative branch ?
 OTHERS,what is sonar ?
-OTHERS,"in poland , where do most people live ?"
+5,"in poland , where do most people live ?"
 OTHERS,what is phosphorus ?
-OTHERS,what is the location of the sea of tranquility ?
+5,what is the location of the sea of tranquility ?
 4,how fast is sound ?
-OTHERS,what french province is cognac produced in ?
+5,what french province is cognac produced in ?
 OTHERS,what is valentine 's day ?
 OTHERS,what causes gray hair ?
 OTHERS,what is hypertension ?
 OTHERS,what is bandwidth ?
-OTHERS,what is the longest suspension bridge in the u.s. ?
+5,what is the longest suspension bridge in the u.s. ?
 OTHERS,what is a parasite ?
 OTHERS,what is home equity ?
 OTHERS,what do meteorologists do ?
-1,what is the criterion for being legally blind ?
+OTHERS,what is the criterion for being legally blind ?
 3,who is the tallest man in the world ?
-OTHERS,what are the twin cities ?
-1,what did edward binney and howard smith invent in 1903 ?
-1,what is the statue of liberty made of ?
+5,what are the twin cities ?
+OTHERS,what did edward binney and howard smith invent in 1903 ?
+OTHERS,what is the statue of liberty made of ?
 OTHERS,what is pilates ?
-OTHERS,what planet is known as the `` red '' planet ?
+5,what planet is known as the `` red '' planet ?
 4,what is the depth of the nile river ?
-1,what is the colorful korean traditional dress called ?
+OTHERS,what is the colorful korean traditional dress called ?
 OTHERS,what is mardi gras ?
 4,mexican pesos are worth what in u.s. dollars ?
 3,who was the first african american to play for the brooklyn dodgers ?
 3,who was the first prime minister of canada ?
 4,how many admirals are there in the u.s. navy ?
-1,what instrument did glenn miller play ?
+OTHERS,what instrument did glenn miller play ?
 4,how old was joan of arc when she died ?
 OTHERS,what does the word fortnight mean ?
 OTHERS,what is dianetics ?
-OTHERS,what is the capital of ethiopia ?
+5,what is the capital of ethiopia ?
 4,for how long is an elephant pregnant ?
 OTHERS,how did janice joplin die ?
-1,what is the primary language in iceland ?
+OTHERS,what is the primary language in iceland ?
 OTHERS,what is the difference between am radio stations and fm radio stations ?
 OTHERS,what is osteoporosis ?
 3,who was the first woman governor in the u.s. ?
@@ -278,51 +278,51 @@ OTHERS,what is the esophagus used for ?
 OTHERS,what is viscosity ?
 4,what year did oklahoma become a state ?
 2,what is the abbreviation for texas ?
-1,what is a mirror made out of ?
-OTHERS,where on the body is a mortarboard worn ?
+OTHERS,what is a mirror made out of ?
+5,where on the body is a mortarboard worn ?
 3,what was j.f.k. 's wife 's name ?
 2,what does i.v. stand for ?
 OTHERS,what is the chunnel ?
-OTHERS,where is hitler buried ?
+5,where is hitler buried ?
 OTHERS,what are antacids ?
 OTHERS,what is pulmonary fibrosis ?
 OTHERS,what are quaaludes ?
 OTHERS,what is naproxen ?
 OTHERS,what is strep throat ?
-OTHERS,what is the largest city in the u.s. ?
-1,what is foot and mouth disease ?
+5,what is the largest city in the u.s. ?
+OTHERS,what is foot and mouth disease ?
 4,what is the life expectancy of a dollar bill ?
-1,what do you call a professional map drawer ?
+OTHERS,what do you call a professional map drawer ?
 OTHERS,what are aborigines ?
 OTHERS,what is hybridization ?
-1,what color is indigo ?
+OTHERS,what color is indigo ?
 4,how old do you have to be in order to rent a car in italy ?
-1,what does a barometer measure ?
-1,what color is a giraffe 's tongue ?
+OTHERS,what does a barometer measure ?
+OTHERS,what color is a giraffe 's tongue ?
 2,what does usps stand for ?
 4,what year did the nfl go on strike ?
 OTHERS,what is solar wind ?
 4,what date did neil armstrong land on the moon ?
 4,when was hiroshima bombed ?
-OTHERS,where is the savannah river ?
+5,where is the savannah river ?
 3,who was the first woman killed in the vietnam war ?
-OTHERS,what planet has the strongest magnetic field of all the planets ?
+5,what planet has the strongest magnetic field of all the planets ?
 3,who is the governor of alaska ?
 4,what year did mussolini seize power in italy ?
-OTHERS,what is the capital of persia ?
-OTHERS,where is the eiffel tower ?
+5,what is the capital of persia ?
+5,where is the eiffel tower ?
 4,how many hearts does an octopus have ?
 OTHERS,what is pneumonia ?
-OTHERS,what is the deepest lake in the us ?
+5,what is the deepest lake in the us ?
 OTHERS,what is a fuel cell ?
 3,who was the first u.s. president to appear on tv ?
-OTHERS,where is the little league museum ?
-1,what are the two types of twins ?
-OTHERS,what is the brightest star ?
+5,where is the little league museum ?
+OTHERS,what are the two types of twins ?
+5,what is the brightest star ?
 OTHERS,what is diabetes ?
 4,when was president kennedy shot ?
 2,what is tmj ?
-1,what color is yak milk ?
+OTHERS,what color is yak milk ?
 4,what date was dwight d. eisenhower born ?
 2,what does the technical term isdn mean ?
 OTHERS,why is the sun yellow ?
@@ -331,57 +331,57 @@ OTHERS,why is the sun yellow ?
 OTHERS,what is the milky way ?
 OTHERS,what is mold ?
 4,what year was mozart born ?
-1,what is a group of frogs called ?
-1,what is the name of william penn 's ship ?
+OTHERS,what is a group of frogs called ?
+OTHERS,what is the name of william penn 's ship ?
 4,what is the melting point of gold ?
-OTHERS,what is the street address of the white house ?
+5,what is the street address of the white house ?
 OTHERS,what is semolina ?
-1,what fruit is melba sauce made from ?
+OTHERS,what fruit is melba sauce made from ?
 OTHERS,what is ursa major ?
 4,what is the percentage of water content in the human body ?
 4,how much does water weigh ?
-1,what was president lyndon johnson 's reform program called ?
+OTHERS,what was president lyndon johnson 's reform program called ?
 4,"what is the murder rate in windsor , ontario ?"
 3,who is the only president to serve 2 non-consecutive terms ?
 4,what is the population of australia ?
 3,who painted the ceiling of the sistine chapel ?
-1,name a stimulant .
+OTHERS,name a stimulant .
 OTHERS,what is the effect of volcanoes on the climate ?
 4,what year did the andy griffith show begin ?
 OTHERS,what is acid rain ?
 4,what is the date of mexico 's independence ?
-OTHERS,what is the location of lake champlain ?
-1,what is the illinois state flower ?
-1,what is maryland 's state bird ?
+5,what is the location of lake champlain ?
+OTHERS,what is the illinois state flower ?
+OTHERS,what is maryland 's state bird ?
 OTHERS,what is quicksilver ?
 3,who wrote `` the divine comedy '' ?
 4,what is the speed of light ?
 4,what is the width of a football field ?
 OTHERS,why in tennis are zero points called love ?
-1,what kind of dog was toto in the wizard of oz ?
+OTHERS,what kind of dog was toto in the wizard of oz ?
 OTHERS,what is a thyroid ?
 OTHERS,what does ciao mean ?
-1,what is the only artery that carries blue blood from the heart to the lungs ?
+OTHERS,what is the only artery that carries blue blood from the heart to the lungs ?
 4,how often does old faithful erupt at yellowstone national park ?
 OTHERS,what is acetic acid ?
 4,"what is the elevation of st. louis , mo ?"
-1,what color does litmus paper turn when it comes into contact with a strong acid ?
-1,what are the colors of the german flag ?
+OTHERS,what color does litmus paper turn when it comes into contact with a strong acid ?
+OTHERS,what are the colors of the german flag ?
 OTHERS,what is the moulin rouge ?
-OTHERS,what soviet seaport is on the black sea ?
+5,what soviet seaport is on the black sea ?
 4,what is the atomic weight of silver ?
-1,what currency do they use in brazil ?
+OTHERS,what currency do they use in brazil ?
 OTHERS,what are pathogens ?
 OTHERS,what is mad cow disease ?
-1,name a food high in zinc .
+OTHERS,name a food high in zinc .
 4,when did north carolina enter the union ?
-OTHERS,where do apple snails live ?
+5,where do apple snails live ?
 OTHERS,what are ethics ?
 2,what does cpr stand for ?
 OTHERS,what is an annuity ?
 3,who killed john f. kennedy ?
 3,who was the first vice president of the u.s. ?
-1,what birthstone is turquoise ?
+OTHERS,what birthstone is turquoise ?
 3,who was the first us president to ride in an automobile to his inauguration ?
 4,how old was the youngest president of the united states ?
 4,when was ulysses s. grant born ?
@@ -391,111 +391,111 @@ OTHERS,what is propylene glycol ?
 OTHERS,what is a panic disorder ?
 3,who invented the instant polaroid camera ?
 OTHERS,what is a carcinogen ?
-1,what is a baby lion called ?
+OTHERS,what is a baby lion called ?
 4,what is the world 's population ?
 OTHERS,what is nepotism ?
 OTHERS,what is die-casting ?
 OTHERS,what is myopia ?
 4,what is the sales tax rate in new york ?
 4,developing nations comprise what percentage of the world 's population ?
-OTHERS,what is the fourth highest mountain in the world ?
+5,what is the fourth highest mountain in the world ?
 3,what is shakespeare 's nickname ?
-1,what is the heaviest naturally occurring element ?
+OTHERS,what is the heaviest naturally occurring element ?
 4,when is father 's day ?
 2,what does the acronym nasa stand for ?
 4,how long is the columbia river in miles ?
-OTHERS,what city 's newspaper is called `` the star '' ?
+5,what city 's newspaper is called `` the star '' ?
 OTHERS,what is carbon dioxide ?
-OTHERS,where is the mason/dixon line ?
+5,where is the mason/dixon line ?
 4,when was the boston tea party ?
 OTHERS,what is metabolism ?
 3,which u.s.a. president appeared on `` laugh-in '' ?
-1,what are cigarettes made of ?
-OTHERS,what is the capital of zimbabwe ?
+OTHERS,what are cigarettes made of ?
+5,what is the capital of zimbabwe ?
 2,what does nasa stand for ?
-1,what is the state flower of michigan ?
+OTHERS,what is the state flower of michigan ?
 OTHERS,what are semiconductors ?
 OTHERS,what is nuclear power ?
 OTHERS,what is a tsunami ?
 3,who is the congressman from state of texas on the armed forces committee ?
 3,who was president in 1913 ?
 4,when was the first kidney transplant ?
-OTHERS,what are canada 's two territories ?
-1,what was the name of the plane lindbergh flew solo across the atlantic ?
+5,what are canada 's two territories ?
+OTHERS,what was the name of the plane lindbergh flew solo across the atlantic ?
 OTHERS,what is genocide ?
-OTHERS,what continent is argentina on ?
-1,what monastery was raided by vikings in the late eighth century ?
+5,what continent is argentina on ?
+OTHERS,what monastery was raided by vikings in the late eighth century ?
 OTHERS,what is an earthquake ?
-OTHERS,where is the tallest roller coaster located ?
+5,where is the tallest roller coaster located ?
 OTHERS,what are enzymes ?
 3,who discovered oxygen ?
 OTHERS,what is bangers and mash ?
-1,what is the name given to the tiger at louisiana state university ?
-OTHERS,where are the british crown jewels kept ?
+OTHERS,what is the name given to the tiger at louisiana state university ?
+5,where are the british crown jewels kept ?
 3,who was the first person to reach the north pole ?
 OTHERS,what is an ulcer ?
 OTHERS,what is vertigo ?
 OTHERS,what is the spirometer test ?
 4,when is the official first day of summer ?
 2,what does the abbreviation sos mean ?
-1,what is the smallest bird in britain ?
+OTHERS,what is the smallest bird in britain ?
 3,who invented trivial pursuit ?
-1,what gasses are in the troposphere ?
-OTHERS,which country has the most water pollution ?
-1,what is the scientific name for elephant ?
+OTHERS,what gasses are in the troposphere ?
+5,which country has the most water pollution ?
+OTHERS,what is the scientific name for elephant ?
 3,who is the actress known for her role in the movie `` gypsy '' ?
-1,what breed of hunting dog did the beverly hillbillies own ?
-OTHERS,what is the rainiest place on earth ?
+OTHERS,what breed of hunting dog did the beverly hillbillies own ?
+5,what is the rainiest place on earth ?
 3,who was the first african american to win the nobel prize in literature ?
 4,when is st. patrick 's day ?
-1,what was fdr 's dog 's name ?
-1,what colors need to be mixed to get the color pink ?
-1,what is the most popular sport in japan ?
-1,what is the active ingredient in baking soda ?
+OTHERS,what was fdr 's dog 's name ?
+OTHERS,what colors need to be mixed to get the color pink ?
+OTHERS,what is the most popular sport in japan ?
+OTHERS,what is the active ingredient in baking soda ?
 4,when was thomas jefferson born ?
 4,how cold should a refrigerator be ?
 4,when was the telephone invented ?
-1,what is the most common eye color ?
-OTHERS,where was the first golf course in the united states ?
+OTHERS,what is the most common eye color ?
+5,where was the first golf course in the united states ?
 OTHERS,what is schizophrenia ?
 OTHERS,what is angiotensin ?
 3,what did jesse jackson organize ?
-1,what is new york 's state bird ?
-OTHERS,what is the national park in utah ?
+OTHERS,what is new york 's state bird ?
+5,what is the national park in utah ?
 4,what is susan b. anthony 's birthday ?
-OTHERS,in which state would you find the catskill mountains ?
-1,what do you call a word that is spelled the same backwards and forwards ?
+5,in which state would you find the catskill mountains ?
+OTHERS,what do you call a word that is spelled the same backwards and forwards ?
 OTHERS,what are pediatricians ?
 3,"what chain store is headquartered in bentonville , arkansas ?"
 OTHERS,what are solar cells ?
 OTHERS,what is compounded interest ?
 OTHERS,what are capers ?
 OTHERS,what is an antigen ?
-1,what currency does luxembourg use ?
+OTHERS,what currency does luxembourg use ?
 4,what is the population of venezuela ?
-1,what type of polymer is used for bulletproof vests ?
-1,what currency does argentina use ?
+OTHERS,what type of polymer is used for bulletproof vests ?
+OTHERS,what currency does argentina use ?
 OTHERS,what is a thermometer ?
-OTHERS,what canadian city has the largest population ?
-1,what color are crickets ?
-OTHERS,which country gave new york the statue of liberty ?
-1,what was the name of the first u.s. satellite sent into space ?
-1,what precious stone is a form of pure carbon ?
-1,what kind of gas is in a fluorescent bulb ?
+5,what canadian city has the largest population ?
+OTHERS,what color are crickets ?
+5,which country gave new york the statue of liberty ?
+OTHERS,what was the name of the first u.s. satellite sent into space ?
+OTHERS,what precious stone is a form of pure carbon ?
+OTHERS,what kind of gas is in a fluorescent bulb ?
 OTHERS,what is rheumatoid arthritis ?
-OTHERS,"what river runs through rowe , italy ?"
+5,"what river runs through rowe , italy ?"
 OTHERS,what is cerebral palsy ?
-OTHERS,what city is also known as `` the gateway to the west '' ?
+5,what city is also known as `` the gateway to the west '' ?
 4,how far away is the moon ?
-1,what is the source of natural gas ?
-1,in what spacecraft did u.s. astronaut alan shepard make his historic 1961 flight ?
+OTHERS,what is the source of natural gas ?
+OTHERS,in what spacecraft did u.s. astronaut alan shepard make his historic 1961 flight ?
 OTHERS,what is pectin ?
 OTHERS,what is bio-diversity ?
-1,what 's the easiest way to remove wallpaper ?
+OTHERS,what 's the easiest way to remove wallpaper ?
 4,what year did the titanic start on its journey ?
 4,how much of an apple is water ?
 3,who was the 22nd president of the us ?
-1,what is the money they use in zambia ?
+OTHERS,what is the money they use in zambia ?
 4,how many feet in a mile ?
-1,what is the birthstone of october ?
+OTHERS,what is the birthstone of october ?
 OTHERS,what is e-coli ?
